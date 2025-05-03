@@ -14,11 +14,11 @@ In today's digital age, productivity is no longer limited to workplace performan
 This pressure can lead to burnout, decision fatigue and identity disorganization, especially in young people who are still shaping their goals. It creates a feedback loop: individuals feel they are falling behind, which leads to anxiety, which in turn further diminishes the ability to be productive - ironically achieving the opposite of what the pressure intended.
 
 ### 1.3) Why focus on Generation Z
-Gen Z (born between 1997 and 2012) is the first group to grow up entirely in the digital age. Their formative years were shaped by algorithms, trends, online challenges, hustle culture and digital comparison. From a young age, they consume motivational and achievement-oriented content.
+Gen Z **(born between 1997 and 2012)** is the first group to grow up entirely in the digital age. Their formative years were shaped by algorithms, trends, online challenges, hustle culture and digital comparison. From a young age, they consume motivational and achievement-oriented content.
 
 Focusing on Gen Z allows us to examine the psychological and behavioral effects of digital productivity culture on a generation that has never known a world without it. Understanding their experiences can pave the way for action for future generations.
 
-### 1.4) Literature review (similar studies if available)
+### 1.4) Literature Review
 While this field is emerging, a few key references and patterns are observable:
 
 **The Hustle Culture and Its Discontents (2021, Harvard Business Review):** Highlights the glorification of overworking and its mental health costs, especially among young professionals.
@@ -31,30 +31,33 @@ While this field is emerging, a few key references and patterns are observable:
 
 These studies suggest that algorithmically promoted productivity messaging can erode self-esteem, reinforce unrealistic success models, and increase generalized anxiety in digital-native youth.
 
-## 2) Research Questions or Hypotheses
-### 2.1) Does Generation Z experience pressure to feel productive due to social media?
-Our survey, which will be presented below, shows that a certain portion of Gen Z is experiencing internal conflict about staying productive and learning new skills at a young age.
+## 2) Research Questions
+1) How often are you exposed to content like you should be productive on social media (TikTok, Instagram, etc.)?
 
-### 2.2 How does this pressure affect self-confidence and decision-making?
-Content that associates being productive with success can have a negative impact on self-confidence and decision-making:
+2) How does this kind of content affect you?
 
-**Self-confidence:** When individuals are exposed to their overachieving peers online, they often feel they are “not doing enough”, regardless of their actual progress. This leads to lower self-esteem.
+3) Have you ever done something you didn't feel like doing just to feel productive?
 
-**Decision Making:** Fear of missing the “right” path constrains action. Gen Z may postpone or avoid important life decisions for fear of choosing the wrong productive path.
+4) Do you have thoughts like I should fill my free time, I should do something for myself?
 
-In short, instead of empowering them, productivity rhetoric often leads to identity confusion and chronic self-doubt.
+5) Do you think there is an increase in content on social media that encourages people to become entrepreneurs?
 
+6) Do you think social media manipulates what people want?
 
+7) Have you ever felt inadequate after social media?
 
+8) Do you feel like you don't know what you want?
 
+9) Have you ever thought that motivational videos on social media are on the rise?
 
+10) How many hours a day do you use social media on average?
 
+## Method
+**Participant profile:** Born between 1998-2004 
 
-## Methodology
-- Participant profile (age range, education, country, etc.)
-- Data collection tools (questionnaire, open-ended questions)
-- Implementation process and environment
-- Additional data sources (e.g. driving license statistics, socialization data)
+**Data collection tools:** Google Form, Kaggle
+
+> **Additional data sources:**
 
 ## Findings
 - Presentation of survey results with graphs
@@ -77,5 +80,5 @@ In short, instead of empowering them, productivity rhetoric often leads to ident
 
 ## Attachments
 - Questionnaire form
--Detailed tables and graphs
--Ethical approval or participant information form, if required
+- Detailed tables and graphs
+- Ethical approval or participant information form, if required
